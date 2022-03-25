@@ -1,4 +1,4 @@
-<p align="center"><img width="95%" src="./uploads/header.jpeg" /></p>
+<p align="center"><img width="95%" src="./uploads/header.png" /></p>
 
 ### Hi there 👋 I'm Gulnihal
 
